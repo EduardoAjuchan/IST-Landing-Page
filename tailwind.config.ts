@@ -9,8 +9,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        primary: "#1E3A8A", // Azul oscuro para el fondo del footer
+        secondary: "#10B981", // Verde para los enlaces y detalles
+      
       },
     },
   },
